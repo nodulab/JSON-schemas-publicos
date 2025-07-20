@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/saettone-facturas.json",
+      "source": "/(.*)\\.json",
       "headers": [
         {
           "key": "Content-Type",
